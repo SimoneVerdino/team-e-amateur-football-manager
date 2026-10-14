@@ -74,4 +74,4 @@ As a team manager, I want to manually record goals, assists, and appearances for
 - Given Luca Meier has 3 goals, 1 assist, and 5 appearances, when the manager enters 2 goals, 1 assist, and 1 appearance, then the resulting totals are 5 goals, 2 assists, and 6 appearances.
   However, given entered values of 0, the existing totals always remain unchanged.
 - Given Luca Meier has 5 goals, 2 assists, and 6 appearances, when the manager opens his statistics, then 5 goals, 2 assists, and 6 appearances are shown.
-- Given Luca Meier has 5 goals, when the manager enters -1 or "abc" as goals, then the input is rejected with an error message and the total remains 5 goals
+- Given Luca Meier has 5 goals, when the manager enters -1 or "abc" as goals, then the input is rejected with an error message and the total remains 5 goals.
