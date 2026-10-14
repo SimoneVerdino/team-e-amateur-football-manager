@@ -21,7 +21,7 @@ As a team manager, I want to create a lineup by selecting players for different 
 
 #### 2. Update Player Information
 
-As a team manager, I want to update a player's information, such as their age or position, so that I can keep their details accurate.
+As a team manager, I want to update a player's personal and football-related information, such as their name, age, or position, so that the team roster remains accurate.
 
 **Acceptance Criteria:**
 - The manager can select an existing player.
