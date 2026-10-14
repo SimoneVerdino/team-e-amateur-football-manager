@@ -1,6 +1,6 @@
 # team-e-amateur-football-manager
 
-## Project Problems
+## Project Problem
 
 Team managers need a simple way to keep player information organized and up to date. Our application helps them manage their amateur football team, keep track of player availability and statistics, and prepare lineups for matches.
 
