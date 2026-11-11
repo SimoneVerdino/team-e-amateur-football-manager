@@ -1,6 +1,6 @@
 # Supported formations
 FORMATIONS = {
-    "4-4-2": [
+    "442": [
         "Goalkeeper",
         "Right Back",
         "Centre Back",
@@ -14,15 +14,29 @@ FORMATIONS = {
         "Striker"
     ],
 
-    "4-3-3": [
+    "433": [
         "Goalkeeper",
         "Right Back",
         "Centre Back",
         "Centre Back",
         "Left Back",
         "Centre Midfielder",
+        "Holding Midfielder",
         "Centre Midfielder",
-        "Centre Midfielder",
+        "Right Winger",
+        "Striker",
+        "Left Winger"
+    ],
+
+    "4231": [
+        "Goalkeeper",
+        "Right Back",
+        "Centre Back",
+        "Centre Back",
+        "Left Back",
+        "Holding Midfielder",
+        "Holding Midfielder",
+        "Attacking Midfielder",
         "Right Winger",
         "Striker",
         "Left Winger"
